@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "A personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryderbelserion/Dashboard.git"
+  },
+  "author": "Ryder Belserion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryderbelserion/Dashboard/issues"
+  },
+  "homepage": "https://github.com/ryderbelserion/Dashboard#readme"
+}
